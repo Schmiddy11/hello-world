@@ -1,2 +1,3 @@
 # hello-world
 my first repository...
+Hello everyone who may see this.  My name is Jesse and I am fairly new to coding.  I look foward to the new paths this could lead me down and where it could take me!
